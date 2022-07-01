@@ -1,0 +1,14 @@
+.cell {
+  height: 150px;
+  width: 150px;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 4rem;
+  display: grid;
+  place-content: center;
+}
+
+.cell:hover {
+  cursor: pointer;
+}
+
